@@ -1,6 +1,4 @@
 # Laravel Assets management
-<<<<<<< HEAD
-=======
 
 [![Latest Version](https://img.shields.io/github/release/sayboot/assets.svg?style=flat-square)](https://github.com/sayboot/assets/releases)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
