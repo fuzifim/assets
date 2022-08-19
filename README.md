@@ -133,4 +133,3 @@ ASSETS_ENABLE_VERSION=false
 
 ## License
 [MIT](LICENSE) © Thanh Nguyen
->>>>>>> 65f8f3a (first release)
